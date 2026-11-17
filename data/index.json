@@ -1,15 +1,70 @@
 {
-  "generated_at": "2026-11-17T10:10:33Z",
-  "last_attempt_at": "2026-11-17T10:10:33Z",
+  "generated_at": "2026-11-17T10:34:36Z",
+  "last_attempt_at": "2026-11-17T10:34:36Z",
   "source": "Public YouTube RSS feeds; API search optional; prior snapshots retained",
   "subscriptions": [
+    {
+      "id": "QlfpomDIR6E",
+      "channel": "Reuters",
+      "title": "Risk of nuclear accident in Ukraine increasing, watchdogs say",
+      "published": "2026-11-17T10:21:56+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=QlfpomDIR6E",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Recent public channel RSS feed"
+    },
+    {
+      "id": "iDWoD6mohkE",
+      "channel": "Reuters",
+      "title": "Nvidia earnings put AI spending boom under the microscope | | Morning Bid",
+      "published": "2026-11-17T10:20:28+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=iDWoD6mohkE",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Recent public channel RSS feed"
+    },
     {
       "id": "jj1mzTsZML0",
       "channel": "Reuters",
       "title": "LIVE: Trump arrives for the ASEAN-US meeting",
-      "published": "2026-11-17T09:39:55+00:00",
+      "published": "2026-11-17T10:19:35+00:00",
       "precision": "second",
       "url": "https://www.youtube.com/watch?v=jj1mzTsZML0",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Recent public channel RSS feed"
+    },
+    {
+      "id": "d4ZoS7eHmwg",
+      "channel": "Reuters",
+      "title": "LIVE: Students protest in Belgium over tuition hikes and education cuts",
+      "published": "2026-11-17T10:13:50+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=d4ZoS7eHmwg",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Recent public channel RSS feed"
+    },
+    {
+      "id": "2uI_zPlxZzo",
+      "channel": "Reuters",
+      "title": "Singapore couple's GTA VI agreement draws mixed reactions online",
+      "published": "2026-11-17T10:13:38+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=2uI_zPlxZzo",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Recent public channel RSS feed"
+    },
+    {
+      "id": "20Y3LOrvkkQ",
+      "channel": "BBC News",
+      "title": "Government must prioritise young people or risk a 'lost generation', Alan Milburn says. #BBCNews",
+      "published": "2026-11-17T10:09:35+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=20Y3LOrvkkQ",
       "origin": "subscribed",
       "topic": null,
       "verified": "Recent public channel RSS feed"
