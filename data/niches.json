@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ai",
+    "name": "AI news & tools",
+    "query": "artificial intelligence latest AI tools",
+    "keywords": [
+      "ai",
+      "artificial intelligence",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "agent"
+    ]
+  },
+  {
+    "id": "ai-agents",
+    "name": "AI agents & automation",
+    "query": "AI agents workflow automation n8n",
+    "keywords": [
+      "ai agent",
+      "agents",
+      "automation",
+      "n8n",
+      "workflow"
+    ]
+  },
+  {
+    "id": "ai-business",
+    "name": "AI business opportunities",
+    "query": "AI business opportunities 2026",
+    "keywords": [
+      "ai business",
+      "ai agency",
+      "ai income",
+      "ai website"
+    ]
+  },
+  {
+    "id": "reselling",
+    "name": "Reselling & eBay",
+    "query": "reselling ebay flip thrift business",
+    "keywords": [
+      "resell",
+      "ebay",
+      "flipp",
+      "thrift",
+      "flea market"
+    ]
+  },
+  {
+    "id": "finance",
+    "name": "Markets & finance",
+    "query": "financial markets investing economy latest",
+    "keywords": [
+      "finance",
+      "invest",
+      "stock",
+      "bitcoin",
+      "inflation",
+      "market"
+    ]
+  },
+  {
+    "id": "ev",
+    "name": "EVs & batteries",
+    "query": "electric vehicles battery technology",
+    "keywords": [
+      "electric vehicle",
+      "battery",
+      "tesla",
+      "ev charging",
+      "evs"
+    ]
+  },
+  {
+    "id": "music",
+    "name": "House music",
+    "query": "house music new releases underground house",
+    "keywords": [
+      "house music",
+      "deep house",
+      "soulful house",
+      "music releases"
+    ]
+  }
+]

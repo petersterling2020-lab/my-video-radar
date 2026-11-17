@@ -1,0 +1,1718 @@
+{
+  "generated_at": "2026-11-17T04:14:00Z",
+  "last_attempt_at": "2026-11-17T04:14:00Z",
+  "source": "Snapshot from verified public video IDs and search results; no automatic refresh yet",
+  "subscriptions": [
+    {
+      "id": "7wbDq841Auk",
+      "channel": "The Electric Viking",
+      "title": "QuantumScape Reveals 5-Minute Solid-State Battery That Needs No Crushing Pressure",
+      "published": "2026-11-17T13:00:23+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=7wbDq841Auk",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "4QffHCRaWBo",
+      "channel": "Reuters",
+      "title": "US stocks plummet ahead of Nvidia results, Anthropic IPO",
+      "published": "2026-11-17T11:15:40+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=4QffHCRaWBo",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "2ISFOqFsv00",
+      "channel": "AI Revolution",
+      "title": "Qwen4 Max Just Dropped, China's New BEST AI Model!",
+      "published": "2026-11-17T10:37:28+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=2ISFOqFsv00",
+      "origin": "subscribed",
+      "topic": "AI news",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "iSog3_bYIz0",
+      "channel": "BBC News",
+      "title": "“Brexit hasn’t worked and Britain lost more that it gained” says Andy Burnham | BBC News",
+      "published": "2026-11-17T09:53:35+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=iSog3_bYIz0",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "eejt6BL_c90",
+      "channel": "Reuters",
+      "title": "Could Jensen Huang return to Nvidia after the scandal? | Reuters World News",
+      "published": "2026-11-17T09:38:08+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=eejt6BL_c90",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "D0JrbM56d5E",
+      "channel": "Valuetainment",
+      "title": "\"F the Iranian Leadership\" - Bessent Fires Back After Death Threats",
+      "published": "2026-11-17T09:30:23+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=D0JrbM56d5E",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "MVPKrS5J2w4",
+      "channel": "Reuters",
+      "title": "Pattinson as James Bond an 'incredible choice'",
+      "published": "2026-11-17T09:25:09+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=MVPKrS5J2w4",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "UDH7c93_Ebc",
+      "channel": "The Electric Viking",
+      "title": "The NEW Batteries Inside the Zeekr 7X Can Charge 3x Faster",
+      "published": "2026-11-17T08:50:01+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=UDH7c93_Ebc",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "BSVDIGJ5VlE",
+      "channel": "Valuetainment",
+      "title": "Bukele Brought Armed Robot Dogs to Haiti’s Gang War",
+      "published": "2026-11-17T08:00:11+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=BSVDIGJ5VlE",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "nLxkXqYTY0E",
+      "channel": "The Electric Viking",
+      "title": "Tesla's Berlin Boss Drops A Big Hint: The Next Factory Won't Build The Model Y",
+      "published": "2026-11-17T07:30:30+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=nLxkXqYTY0E",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "2_-MoFutKZo",
+      "channel": "BBC News",
+      "title": "What is the UK government's plan to create more jobs for young people? | BBC Newscast",
+      "published": "2026-11-17T07:30:11+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=2_-MoFutKZo",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "P-mXmigU7pw",
+      "channel": "BBC News",
+      "title": "Why the UK was told to 'be honest' with public about looming threats | BBC News",
+      "published": "2026-11-17T07:15:16+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=P-mXmigU7pw",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "OF5Ha-YpJO0",
+      "channel": "Valuetainment",
+      "title": "FAA Shutdown: Honest Mistake or Planned Crisis?",
+      "published": "2026-11-17T05:45:30+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=OF5Ha-YpJO0",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "j-kr9ntjT-s",
+      "channel": "Business Insider",
+      "title": "Breaking Down My $90,000 Salary In Tokyo, Japan | The Pay Check",
+      "published": "2026-11-17T02:22:32+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=j-kr9ntjT-s",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "r4qwHCVZmfY",
+      "channel": "The Savvy Couple - Kelan & Brittany",
+      "title": "How to Make Your First $1,000 Selling Websites to Local Businesses",
+      "published": "2026-11-17T01:30:29+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=r4qwHCVZmfY",
+      "origin": "subscribed",
+      "topic": "AI business",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "lcv-M6qBsdA",
+      "channel": "The B1M",
+      "title": "Russia’s Most Remote Megaproject",
+      "published": "2026-11-17T01:27:52+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=lcv-M6qBsdA",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "AGwNx57ABfM",
+      "channel": "My First Million",
+      "title": "$1.5B VC: “Founders need a savage mindset”",
+      "published": "2026-11-17T00:52:24+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=AGwNx57ABfM",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "AiBIvOj3U64",
+      "channel": "CNA Insider",
+      "title": "Is Expensive Matcha Really Better? We Put 6 Powders To The Test | Talking Point",
+      "published": "2026-11-16T22:30:26+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=AiBIvOj3U64",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "1mDHHi398ig",
+      "channel": "The Diary Of A CEO",
+      "title": "I Am A Sex Spy! I Was Trained To Control Any Man's Mind! | John Kiriakou & Aliia Roza",
+      "published": "2026-11-16T18:30:26+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=1mDHHi398ig",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "5vPXJiy83Sg",
+      "channel": "WorldofAI",
+      "title": "Qwen 4 Max IS OUT! BEST Chinese AI Model EVER?! (Fully Tested)",
+      "published": "2026-11-16T16:29:39+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=5vPXJiy83Sg",
+      "origin": "subscribed",
+      "topic": "AI news",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "iiepBMjZIMY",
+      "channel": "AI Revolution",
+      "title": "Did AI Agents Just Pull Off the Biggest Attack Ever: US Aviation Chaos",
+      "published": "2026-11-16T10:29:43+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=iiepBMjZIMY",
+      "origin": "subscribed",
+      "topic": "AI news",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "gYREryQlCJA",
+      "channel": "Business Insider",
+      "title": "Inside Sysco: How America's Restaurants Get Their Food",
+      "published": "2026-11-16T00:30:19+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=gYREryQlCJA",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "iXvttGCoc1g",
+      "channel": "WorldofAI",
+      "title": "Gemini 4 Krypton BEATS FABLE 5.2!?, GPT-6.2 Preview, GLM-5.5 LEAKED & Claude Code UPDATE! AI NEWS",
+      "published": "2026-11-15T17:43:16+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=iXvttGCoc1g",
+      "origin": "subscribed",
+      "topic": "AI news",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "ua8OVSw2wYU",
+      "channel": "AI Revolution",
+      "title": "Google Just Dropped HYDROGEN: The New King of Everyday AI",
+      "published": "2026-11-15T09:21:13+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=ua8OVSw2wYU",
+      "origin": "subscribed",
+      "topic": "AI news",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "mja8qjDJONw",
+      "channel": "Business Insider",
+      "title": "Is This The End Of The Price Tag? | So Expensive | Business Insider",
+      "published": "2026-11-15T00:30:36+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=mja8qjDJONw",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "tAy1IZf_4kg",
+      "channel": "WorldofAI",
+      "title": "Claude Fable 5.2 Can Now Build INSANE Games!",
+      "published": "2026-11-14T21:25:50+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=tAy1IZf_4kg",
+      "origin": "subscribed",
+      "topic": "AI news",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "gOJOkYDUqyY",
+      "channel": "CNA Insider",
+      "title": "He Quit His Tokyo Job To Surf Every Day. How Does He Afford It? | Money Mind",
+      "published": "2026-11-14T00:30:11+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=gOJOkYDUqyY",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "9qXPWy8ypI8",
+      "channel": "CNA Insider",
+      "title": "Southeast Asia's Biggest Energy Dream Keeps Getting Delayed. Why? | Insight",
+      "published": "2026-11-13T22:30:02+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=9qXPWy8ypI8",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "f1hTelypPBQ",
+      "channel": "The Savvy Couple - Kelan & Brittany",
+      "title": "How to Get Clients Who ALREADY Need Your Service (No Cold Calling)",
+      "published": "2026-11-13T01:30:08+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=f1hTelypPBQ",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "FRoQOzZRcpw",
+      "channel": "The Diary Of A CEO",
+      "title": "The Brain Doctor That Figured Out The Cause Of Dementia - Dr. David Perlmutter",
+      "published": "2026-11-12T18:30:04+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=FRoQOzZRcpw",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "nUwrjuozT5E",
+      "channel": "The B1M",
+      "title": "Why This $13BN Desert Railway Will Transform Abu Dhabi",
+      "published": "2026-11-12T01:26:07+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=nUwrjuozT5E",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "GJUZUnJmW6c",
+      "channel": "My First Million",
+      "title": "How to stop watching your life and start living it - Robert Greene",
+      "published": "2026-11-12T01:07:36+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=GJUZUnJmW6c",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "9ayp_Vax-ZQ",
+      "channel": "Peter Schiff",
+      "title": "4.15% Inflation. $3 Trillion Deficits. We’re in the Final Stages.",
+      "published": "2026-11-11T20:00:18+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=9ayp_Vax-ZQ",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "TGZTqbfDzcM",
+      "channel": "UpFlip",
+      "title": "This Guy Makes $2300/Day with a Business No One Talks About!",
+      "published": "2026-11-11T04:46:33+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=TGZTqbfDzcM",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "scmf3gd9ZjI",
+      "channel": "My First Million",
+      "title": "Building easy AI apps is a bad idea. Here's 8 better bets",
+      "published": "2026-11-10T01:00:01+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=scmf3gd9ZjI",
+      "origin": "subscribed",
+      "topic": "AI business",
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "VpuWi9a3MrE",
+      "channel": "The B1M",
+      "title": "This Will Be The World’s Largest Urban Park",
+      "published": "2026-11-09T23:26:11+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=VpuWi9a3MrE",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "-6PuYw92m1c",
+      "channel": "The Diary Of A CEO",
+      "title": "Katt Williams: They Tied Me To A Pole And Beat Me Bloody Every Week!",
+      "published": "2026-11-09T18:30:33+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=-6PuYw92m1c",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "kHFQ2tc5jQI",
+      "channel": "The Aussie Flipper",
+      "title": "Flea market seller refuses to sell me her whole collection",
+      "published": "2026-11-08T13:55:30+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=kHFQ2tc5jQI",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "eVYj3d_Nni4",
+      "channel": "Peter Schiff",
+      "title": "Bitcoin Was a Trump Trade... Now the Democrats Are Coming for Crypto",
+      "published": "2026-11-07T18:05:08+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=eVYj3d_Nni4",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "PEgzLgslZTc",
+      "channel": "The Aussie Flipper",
+      "title": "The new era of selling on eBay is here (don't get left behind)",
+      "published": "2026-11-07T12:26:37+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=PEgzLgslZTc",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "rjod1v4lY7U",
+      "channel": "UpFlip",
+      "title": "He Started on YouTube Just to Get Free Stuff. Now $1.3M/Year.",
+      "published": "2026-11-06T04:30:27+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=rjod1v4lY7U",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "HOC7zaHfy_w",
+      "channel": "The Savvy Couple - Kelan & Brittany",
+      "title": "He Built an $80K/mo GoHighLevel Agency by Doing This ONE Thing",
+      "published": "2026-11-06T01:30:38+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=HOC7zaHfy_w",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "U3H8o0k1Ks4",
+      "channel": "Peter Schiff",
+      "title": "Debt Interest Is About to Pass Social Security... Here's What Breaks",
+      "published": "2026-11-03T17:45:18+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=U3H8o0k1Ks4",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "cYQTZW0fjEg",
+      "channel": "The Aussie Flipper",
+      "title": "$120 flea market find is selling on eBay for $1,100",
+      "published": "2026-11-01T18:35:03+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=cYQTZW0fjEg",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "42VxVFmeQcs",
+      "channel": "UpFlip",
+      "title": "Would YOU Quit a Pension Job to Sell Pizza? He Did…",
+      "published": "2026-10-27T03:46:59+00:00",
+      "precision": "second",
+      "url": "https://www.youtube.com/watch?v=42VxVFmeQcs",
+      "origin": "subscribed",
+      "topic": null,
+      "verified": "Public video ID returned by provider 17 Nov 2026"
+    },
+    {
+      "id": "q9TB_zfgF4c",
+      "channel": "NicheToolkits",
+      "title": "AI Budget Spreadsheet: Let ChatGPT, Claude or Gemini Fill In Your Paycheck Budget",
+      "published": "2026-11-17T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=q9TB_zfgF4c",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "h8kuW1oL1ws",
+      "channel": "Cagoule Ai",
+      "title": "Free ChatGPT vs Gemini vs Claude: Same Prompts, 5 Tests, Honest Free Limits",
+      "published": "2026-11-17T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=h8kuW1oL1ws",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "nrFM9BfsBno",
+      "channel": "Hodgson AI",
+      "title": "AI Agent Studio - Hodgson.AI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=nrFM9BfsBno",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "To8iy53lF44",
+      "channel": "The Tech Forecast",
+      "title": "How AI Agent Actually Work #chatgpt #ai #aitools #nvidia #chatgptforbeginners #chatgpt #viral",
+      "published": "2026-11-17T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=To8iy53lF44",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "zNyhsoBtYGI",
+      "channel": "swiftpromptai",
+      "title": "Which AI should YOU use?",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=zNyhsoBtYGI",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "nRckO0LCV9w",
+      "channel": "Inspire Software",
+      "title": "I Built a Strategy Map with Claude, ChatGPT, and Gemini (Which AI Won?)",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=nRckO0LCV9w",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "rMXfWaq6oWk",
+      "channel": "Jarvis-AI",
+      "title": "I Tested ChatGPT vs Claude vs Gemini (5 Tasks)",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=rMXfWaq6oWk",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "hl2PmQ-UVPo",
+      "channel": "TecnoTutor TV",
+      "title": "Best Free AI Tools (ChatGPT, Claude, Gemini and Higgsfield)",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=hl2PmQ-UVPo",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "9rbSnF6fscw",
+      "channel": "PromptLab",
+      "title": "ChatGPT vs Gemini vs Claude — Which Free Plan Is Best for Students?",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=9rbSnF6fscw",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "s33pP9B4xOI",
+      "channel": "CurioCompare",
+      "title": "ChatGPT vs Gemini vs Claude: Which AI Should You Pay For? (2026)",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=s33pP9B4xOI",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "gTWo4ykWRV8",
+      "channel": "TestLab AI",
+      "title": "All 3 Cost $20. Which One Should You Pay For?",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=gTWo4ykWRV8",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "_hX79qianms",
+      "channel": "AI Money Blueprint",
+      "title": "You Don't Need 3 AI Subscriptions ($720/Year) #shorts",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=_hX79qianms",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "w8qAYBlp-C4",
+      "channel": "Everything AI",
+      "title": "Best AI for Writing in 2026: Claude vs ChatGPT vs Gemini vs Grok vs Muse — Winner Revealed",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=w8qAYBlp-C4",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "bHEsIBMr0uQ",
+      "channel": "AI Unlocked",
+      "title": "ChatGPT vs Claude vs Gemini for Emails",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=bHEsIBMr0uQ",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "F9W4K2wScBU",
+      "channel": "Beat the AI",
+      "title": "Rebook a Canceled Flight With AI: ChatGPT vs Claude vs Gemini vs Grok",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=F9W4K2wScBU",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "GUPZDpvPY3c",
+      "channel": "Young Minds International",
+      "title": "AI for Beginners: Meet ChatGPT, Gemini, Claude, Perplexity, Grok & Meta AI | AI Literacy Session 1",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=GUPZDpvPY3c",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "aHXe1dZE6nQ",
+      "channel": "Pal AI Lab",
+      "title": "Top 5 AI Launches This Week in 1 Minute",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=aHXe1dZE6nQ",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "ASSxl2Diaio",
+      "channel": "Toolysto",
+      "title": "This AI Tool Replaces Claude, Gemini & ChatGPT (Pyxa AI Review)",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=ASSxl2Diaio",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "f-RXZu1PYsA",
+      "channel": "AI with Anwar",
+      "title": "3 Best Free AI Tools in 2026 You Must Try",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=f-RXZu1PYsA",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "ujRvSyzvhQk",
+      "channel": "Solvify",
+      "title": "Best AI Tools in 2026 Ranked! Writing, Coding & Research #shorts",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=ujRvSyzvhQk",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "XQO4qQsHLiw",
+      "channel": "AI SmartYug",
+      "title": "3 Free AI Tools Everyone Should Know 🤖 | ChatGPT, Claude & Gemini #Shorts",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=XQO4qQsHLiw",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "Ryycqw5GcrQ",
+      "channel": "Retro Os Lab",
+      "title": "AI Agents at Work: What Autonomous Companies Can Actually Do",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=Ryycqw5GcrQ",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "caWQSd5Hexs",
+      "channel": "GoSearch AI Enterprise Search",
+      "title": "GoAI Virtual Browser: Let AI Do Your Web Tasks #Shorts",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=caWQSd5Hexs",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "66XsRIgctlI",
+      "channel": "Dan",
+      "title": "I Built an AI Email Assistant That Automatically Sorts My Inbox! 🤖 | n8n AI Automation Tutorial",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=66XsRIgctlI",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "L886EYnpzcA",
+      "channel": "Daniel Davidson",
+      "title": "Siteglade AI Review (2026) - The Autonomous AI Agent That Builds Anything?",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=L886EYnpzcA",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "ACfjiAmKN1Q",
+      "channel": "AI Mastery TV",
+      "title": "Build the Best Automation System with Zapier AI Agents (Full 2026 Beginner Guide)",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=ACfjiAmKN1Q",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "mClTfsFBqe8",
+      "channel": "Marketing Automation Library",
+      "title": "Free workflow: guerrilla marketing campaign plans on autopilot",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=mClTfsFBqe8",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "I4vj37rqdWU",
+      "channel": "Daily Tech Talks",
+      "title": "HOW TO BUILD YOUR FIRST AI AGENT | AGENTIC AI TUTORIAL",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=I4vj37rqdWU",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "4lEVI0E5XHw",
+      "channel": "NeuralNine",
+      "title": "n8n Tutorial: Second Brain With AI Agents & Memory",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=4lEVI0E5XHw",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "0IJEw7Lqobw",
+      "channel": "Techvibe Lab",
+      "title": "The Zero-Inbox AI Agent Workflow | Automate Email Management with AI!",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=0IJEw7Lqobw",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "V7nbCc_ZKOc",
+      "channel": "HiddenToolsAI",
+      "title": "Best FREE AI Automation Tool For Each Job 🤖",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=V7nbCc_ZKOc",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "bBzxsayoaNY",
+      "channel": "Leon van Zyl",
+      "title": "n8n or AI Agents? The Train vs Taxi Secret",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=bBzxsayoaNY",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "Cg4pz951eY0",
+      "channel": "Automation Anywhere",
+      "title": "AI Agents and Automation: Why Combine Them",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=Cg4pz951eY0",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "RwtaADjOi0Q",
+      "channel": "CodeHead",
+      "title": "7 AI tools I'M BEGGING YOU to try...",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=RwtaADjOi0Q",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "aCz-FX6Fl7U",
+      "channel": "AtlasAiDev",
+      "title": "WordPress Workflow Automation with AI: Triggers & Actions | AtlasMCP",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=aCz-FX6Fl7U",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "jTqkSo7orGE",
+      "channel": "Workflow Garage",
+      "title": "How do you run an n8n workflow every morning at 7?",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=jTqkSo7orGE",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "eRHTYN1m4FQ",
+      "channel": "hurayra",
+      "title": "AI Agent vs AI Workflow: What Your Business Actually Needs #ai #automation",
+      "published": "2026-11-16T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=eRHTYN1m4FQ",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "5SP8PnKqQ98",
+      "channel": "Sangam Mukherjee",
+      "title": "n8n Full Course 2026 | AI Agents, MCP, RAG & Automations",
+      "published": "2026-11-10T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=5SP8PnKqQ98",
+      "origin": "niche",
+      "topic": "AI agents & automation",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    },
+    {
+      "id": "szdGezn1Kb4",
+      "channel": "Tomas AI Tools",
+      "title": "Best AI Resume Builder 2026: ChatGPT vs Claude vs Gemini vs Copilot",
+      "published": "2026-11-09T00:00:00+00:00",
+      "precision": "day",
+      "url": "https://www.youtube.com/watch?v=szdGezn1Kb4",
+      "origin": "niche",
+      "topic": "AI tools & comparisons",
+      "verified": "YouTube search result 17 Nov 2026, not quality endorsement"
+    }
+  ],
+  "channels": [
+    {
+      "name": "The Savvy Couple - Kelan & Brittany",
+      "channel_id": "UCM09WPipvSz-XalVK01FRqQ",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Savvy%20Couple%20-%20Kelan%20%26%20Brittany"
+    },
+    {
+      "name": "The Koerner Office Highlights",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Koerner%20Office%20Highlights"
+    },
+    {
+      "name": "Warders Clobber",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Warders%20Clobber"
+    },
+    {
+      "name": "Retro Reselling",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Retro%20Reselling"
+    },
+    {
+      "name": "Paul in the Philippines Old Dog New Tricks",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Paul%20in%20the%20Philippines%20Old%20Dog%20New%20Tricks"
+    },
+    {
+      "name": "Technsports",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Technsports"
+    },
+    {
+      "name": "affiliatemarketingmc",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=affiliatemarketingmc"
+    },
+    {
+      "name": "Jesse Cunningham",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Jesse%20Cunningham"
+    },
+    {
+      "name": "Back from Burnout",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Back%20from%20Burnout"
+    },
+    {
+      "name": "The Aussie Flipper",
+      "channel_id": "UC-GfooZBv2_IEGxhv4SoleQ",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Aussie%20Flipper"
+    },
+    {
+      "name": "Joe Lonsdale",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Joe%20Lonsdale"
+    },
+    {
+      "name": "CapitalCosm",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=CapitalCosm"
+    },
+    {
+      "name": "Brum Reseller",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Brum%20Reseller"
+    },
+    {
+      "name": "DJ Negraes",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=DJ%20Negraes"
+    },
+    {
+      "name": "Thrift Boss",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Thrift%20Boss"
+    },
+    {
+      "name": "The Tech Report",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Tech%20Report"
+    },
+    {
+      "name": "Nick Maher",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Nick%20Maher"
+    },
+    {
+      "name": "Salim Ismail",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Salim%20Ismail"
+    },
+    {
+      "name": "Silicon Valley Girl",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Silicon%20Valley%20Girl"
+    },
+    {
+      "name": "Da Hub Crew",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Da%20Hub%20Crew"
+    },
+    {
+      "name": "Hæzel l The Haze Seer",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=H%C3%A6zel%20l%20The%20Haze%20Seer"
+    },
+    {
+      "name": "Video Advice",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Video%20Advice"
+    },
+    {
+      "name": "JAMIE LAUDER",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=JAMIE%20LAUDER"
+    },
+    {
+      "name": "Chris Koerner on The Koerner Office Podcast",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Chris%20Koerner%20on%20The%20Koerner%20Office%20Podcast"
+    },
+    {
+      "name": "Good Vibes - Binaural Beats",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Good%20Vibes%20-%20Binaural%20Beats"
+    },
+    {
+      "name": "INSPIRED",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=INSPIRED"
+    },
+    {
+      "name": "Nic & Andrea Hills",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Nic%20%26%20Andrea%20Hills"
+    },
+    {
+      "name": "David Icke",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=David%20Icke"
+    },
+    {
+      "name": "Jay Reed",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Jay%20Reed"
+    },
+    {
+      "name": "Bekka Blake",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Bekka%20Blake"
+    },
+    {
+      "name": "Tina Wong",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Tina%20Wong"
+    },
+    {
+      "name": "Smart Money Tactics",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Smart%20Money%20Tactics"
+    },
+    {
+      "name": "Joji Davenport",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Joji%20Davenport"
+    },
+    {
+      "name": "The Soul Kitchen",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Soul%20Kitchen"
+    },
+    {
+      "name": "Jake Bay",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Jake%20Bay"
+    },
+    {
+      "name": "Business Insider",
+      "channel_id": "UCcyq283he07B7_KUX07mmtA",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=Business%20Insider"
+    },
+    {
+      "name": "Raiken Profit",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Raiken%20Profit"
+    },
+    {
+      "name": "Meditative Mind",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Meditative%20Mind"
+    },
+    {
+      "name": "Matt Goldberg | The Surplus Hunter",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Matt%20Goldberg%20%7C%20The%20Surplus%20Hunter"
+    },
+    {
+      "name": "xjet",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=xjet"
+    },
+    {
+      "name": "Graham Cornhill",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Graham%20Cornhill"
+    },
+    {
+      "name": "Drunken Intelligence",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Drunken%20Intelligence"
+    },
+    {
+      "name": "Car Boot Chris | Treasure Hunter",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Car%20Boot%20Chris%20%7C%20Treasure%20Hunter"
+    },
+    {
+      "name": "Peter Schiff",
+      "channel_id": "UCIjuLiLHdFxYtFmWlbTGQRQ",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=Peter%20Schiff"
+    },
+    {
+      "name": "CNA Insider",
+      "channel_id": "UC_Lnb8ZHqqgLbp-7hltuT9w",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=CNA%20Insider"
+    },
+    {
+      "name": "corbettreport",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=corbettreport"
+    },
+    {
+      "name": "Cincinnati Picker",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Cincinnati%20Picker"
+    },
+    {
+      "name": "Living Life on a Cruise",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Living%20Life%20on%20a%20Cruise"
+    },
+    {
+      "name": "Deep Selector",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Deep%20Selector"
+    },
+    {
+      "name": "Predictive History",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Predictive%20History"
+    },
+    {
+      "name": "Mission Side Hustle",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Mission%20Side%20Hustle"
+    },
+    {
+      "name": "Patrick Dang",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Patrick%20Dang"
+    },
+    {
+      "name": "The Brainwave Hub - Sleep, Focus, Mindfulness",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Brainwave%20Hub%20-%20Sleep%2C%20Focus%2C%20Mindfulness"
+    },
+    {
+      "name": "Angie Gensler",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Angie%20Gensler"
+    },
+    {
+      "name": "Strictly Rhythm",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Strictly%20Rhythm"
+    },
+    {
+      "name": "Loyal Moses",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Loyal%20Moses"
+    },
+    {
+      "name": "Relaxing Nature For The Soul",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Relaxing%20Nature%20For%20The%20Soul"
+    },
+    {
+      "name": "Reuters",
+      "channel_id": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=Reuters"
+    },
+    {
+      "name": "Holly l Spirituality Coach",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Holly%20l%20Spirituality%20Coach"
+    },
+    {
+      "name": "Business Today",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Business%20Today"
+    },
+    {
+      "name": "UpFlip",
+      "channel_id": "UChFahjDeMBV67DSXiF5pwBA",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=UpFlip"
+    },
+    {
+      "name": "Alchemy Healing",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Alchemy%20Healing"
+    },
+    {
+      "name": "Cyrus Janssen",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Cyrus%20Janssen"
+    },
+    {
+      "name": "Valuetainment",
+      "channel_id": "UCIHdDJ0tjn_3j-FS7s_X1kQ",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=Valuetainment"
+    },
+    {
+      "name": "Steven DeVois",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Steven%20DeVois"
+    },
+    {
+      "name": "Treasure Hunting With Jebus",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Treasure%20Hunting%20With%20Jebus"
+    },
+    {
+      "name": "BBC News",
+      "channel_id": "UC16niRr50-MSBwiO3YDb3RA",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=BBC%20News"
+    },
+    {
+      "name": "ITM TRADING, INC.",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=ITM%20TRADING%2C%20INC."
+    },
+    {
+      "name": "Elegance With Andrea",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Elegance%20With%20Andrea"
+    },
+    {
+      "name": "Eurodollar University",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Eurodollar%20University"
+    },
+    {
+      "name": "Sam Got Fired",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Sam%20Got%20Fired"
+    },
+    {
+      "name": "Peak Prosperity",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Peak%20Prosperity"
+    },
+    {
+      "name": "Matt Diamante",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Matt%20Diamante"
+    },
+    {
+      "name": "AI Revolution",
+      "channel_id": "UC5l7RouTQ60oUjLjt1Nh-UQ",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=AI%20Revolution"
+    },
+    {
+      "name": "Robby Blanchard",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Robby%20Blanchard"
+    },
+    {
+      "name": "Johnny Vedmore",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Johnny%20Vedmore"
+    },
+    {
+      "name": "RockstarFlipper",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=RockstarFlipper"
+    },
+    {
+      "name": "WorldofAI",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=WorldofAI"
+    },
+    {
+      "name": "Jacob Shapiro",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Jacob%20Shapiro"
+    },
+    {
+      "name": "Harry S. Dent Jr.",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Harry%20S.%20Dent%20Jr."
+    },
+    {
+      "name": "jeremiah babe",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=jeremiah%20babe"
+    },
+    {
+      "name": "Bjorn Andreas Bull-Hansen",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Bjorn%20Andreas%20Bull-Hansen"
+    },
+    {
+      "name": "My First Million",
+      "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=My%20First%20Million"
+    },
+    {
+      "name": "Christina",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Christina"
+    },
+    {
+      "name": "Money Sense",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Money%20Sense"
+    },
+    {
+      "name": "Zeee Media",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Zeee%20Media"
+    },
+    {
+      "name": "Fortune Stories",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Fortune%20Stories"
+    },
+    {
+      "name": "Bootstrapped Secrets",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Bootstrapped%20Secrets"
+    },
+    {
+      "name": "Self Sufficient Me",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Self%20Sufficient%20Me"
+    },
+    {
+      "name": "tektoc",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=tektoc"
+    },
+    {
+      "name": "The B1M",
+      "channel_id": "UC6n8I1UDTKP1IWjQMg6_TwA",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=The%20B1M"
+    },
+    {
+      "name": "Patrick Boyle",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Patrick%20Boyle"
+    },
+    {
+      "name": "Anne-Claire Meret",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Anne-Claire%20Meret"
+    },
+    {
+      "name": "Masters of Scale",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Masters%20of%20Scale"
+    },
+    {
+      "name": "Broken Record",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Broken%20Record"
+    },
+    {
+      "name": "Mark Savant",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Mark%20Savant"
+    },
+    {
+      "name": "Skunk Labs",
+      "channel_id": null,
+      "verified": false,
+      "source": "Pasted subscription list",
+      "search_url": "https://www.youtube.com/results?search_query=Skunk%20Labs"
+    },
+    {
+      "name": "The Electric Viking",
+      "channel_id": "UCjzi56cxvmEDwjo1Bd2Yxpg",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Electric%20Viking"
+    },
+    {
+      "name": "The Diary Of A CEO",
+      "channel_id": "UCGq-a57w-aPwyi3pW7XLiHw",
+      "verified": true,
+      "source": "Verified public channel",
+      "search_url": "https://www.youtube.com/results?search_query=The%20Diary%20Of%20A%20CEO"
+    }
+  ],
+  "niches": [
+    {
+      "id": "ai",
+      "name": "AI news & tools",
+      "query": "artificial intelligence latest AI tools",
+      "keywords": [
+        "ai",
+        "artificial intelligence",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "agent"
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "name": "AI agents & automation",
+      "query": "AI agents workflow automation n8n",
+      "keywords": [
+        "ai agent",
+        "agents",
+        "automation",
+        "n8n",
+        "workflow"
+      ]
+    },
+    {
+      "id": "ai-business",
+      "name": "AI business opportunities",
+      "query": "AI business opportunities 2026",
+      "keywords": [
+        "ai business",
+        "ai agency",
+        "ai income",
+        "ai website"
+      ]
+    },
+    {
+      "id": "reselling",
+      "name": "Reselling & eBay",
+      "query": "reselling ebay flip thrift business",
+      "keywords": [
+        "resell",
+        "ebay",
+        "flipp",
+        "thrift",
+        "flea market"
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Markets & finance",
+      "query": "financial markets investing economy latest",
+      "keywords": [
+        "finance",
+        "invest",
+        "stock",
+        "bitcoin",
+        "inflation",
+        "market"
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "EVs & batteries",
+      "query": "electric vehicles battery technology",
+      "keywords": [
+        "electric vehicle",
+        "battery",
+        "tesla",
+        "ev charging",
+        "evs"
+      ]
+    },
+    {
+      "id": "music",
+      "name": "House music",
+      "query": "house music new releases underground house",
+      "keywords": [
+        "house music",
+        "deep house",
+        "soulful house",
+        "music releases"
+      ]
+    }
+  ],
+  "health": {
+    "feeds_successful": 0,
+    "feeds_failed": 0,
+    "key_configured": false,
+    "note": "Snapshot pending first scheduled refresh"
+  }
+}
